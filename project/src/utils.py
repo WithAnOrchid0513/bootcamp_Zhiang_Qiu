@@ -12,4 +12,5 @@ def clean_dataframe(df, date_cols=None, rename=None):
 
     return df
 
-
+def mae(y_true, y_pred):
+    return float(np.mean(np.abs(y_true - y_pred)))
