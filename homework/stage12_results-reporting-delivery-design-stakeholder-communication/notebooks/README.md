@@ -1,0 +1,1 @@
+The chosen audience are senior analysts at the target company who are curious about the risk-return profile under different scenarios. A pdf report is simple and standardized, which makes it easy for them to view and provide feedback. 
