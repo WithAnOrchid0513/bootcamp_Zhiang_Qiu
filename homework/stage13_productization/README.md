@@ -1,0 +1,1 @@
+This project applies a random forest model to forecast next day stock returns. It assumes that past data can be used to predict future events. The notebook demonstrates how the model can be pickled and reused, and it also provides an explanation of API usage.
