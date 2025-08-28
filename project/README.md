@@ -3,3 +3,4 @@ This project aims to use random prediction to forecast the changes in stock pric
 
 # Stakeholder Persona
 The main users will be individual and institutional investors who wish to adopt quantitative investment methods. Investors can utilize this project to enhance the accuracy of predictions and strengthen their trading strategies and risk management.
+
